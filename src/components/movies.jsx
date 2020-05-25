@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Pagination from "./common/pagination";
+
 import ListGroup from "./common/listGroup";
 import MoviesTable from "./moviesTable";
 import _ from "lodash";
